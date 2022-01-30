@@ -1,4 +1,4 @@
-Live website on netlify www.arvato-react.netlify.app
+Live website on netlify arvato-react.netlify.app
 
 This is a Component 1 project that I have been given by Fredrik from Arvato Finance. The purpose of this project in my opinion is to how can I make it better for the web reader to see the pricing information better on the page. 
 
