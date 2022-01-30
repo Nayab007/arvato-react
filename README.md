@@ -1,3 +1,5 @@
+Live website
+
 This is a Component 1 project that I have been given by Fredrik from Arvato Finance. The purpose of this project in my opinion is to how can I make it better for the web reader to see the pricing information better on the page. 
 
 what I did is instead of having the moving bar, I did is have all the information on the page where they can easily see the information about different prices on the page, instead of scrolling the price bar. 
